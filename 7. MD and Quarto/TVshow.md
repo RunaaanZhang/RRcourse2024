@@ -32,7 +32,9 @@ It is a popular American sitcom that centers around a group of socially awkward 
 
 
 ## Graph of Viewership Over Time
+![Viewer Over Time](./SeasonViewer.png)
 
 ## Graph of Episode-to-Episode Changes in Viewership
+![S5 Episode Viewer Changes](./EpisodeViewerChange.png)
 
 ## Short Description of Observed Changes
