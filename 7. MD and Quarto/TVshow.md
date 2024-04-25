@@ -38,3 +38,5 @@ It is a popular American sitcom that centers around a group of socially awkward 
 ![S5 Episode Viewer Changes](./EpisodeViewerChange.png)
 
 ## Short Description of Observed Changes
+
+The bar chart presents viewership numbers for a TV show across 24 episodes. Viewership fluctuates moderately within the range of 14 to 16 million, maintaining a generally stable pattern with slight variations. Notably, the viewership peaks at episodes 12 and 18, with 16.13 and 16.2 million viewers respectively. Towards the end of the season, starting from episode 20, there is a noticeable decline, with episode 22 dropping to the lowest point at 12.65 million. Overall, despite these fluctuations, the series sustains high viewership throughout the season.
